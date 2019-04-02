@@ -5,7 +5,7 @@ import App from './App';
 import * as serviceWorker from './serviceWorker';
 
 //ReactDOM.render(<App />, document.getElementById('root'));
-class Header extends Component {
+class Header extends React.Component {
     render () {
       return (
         <div>
